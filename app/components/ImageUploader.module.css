@@ -1,0 +1,25 @@
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.iconLoading {
+    color: dimgray;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes scale-in {
+    from {
+        transform: scale(0);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+.iconSuccess {
+    color: forestgreen;
+    animation: scale-in 0.25s ease-out forwards;
+}
