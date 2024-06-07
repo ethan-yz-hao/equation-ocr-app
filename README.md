@@ -1,6 +1,6 @@
 # Equation OCR
 
-![Equation OC Homepage](https://raw.githubusercontent.com/ethan-yz-hao/equation-ocr-app/main/images/home.png)
+![Equation OCR Homepage](https://raw.githubusercontent.com/ethan-yz-hao/equation-ocr-app/main/images/home.png)
 
 This application convert images of handwritten equations into LaTeX code using OpenAI's GPT-4V API. It also supports a LaTeX renderer for users to edit and check the generated LaTeX code.
 
