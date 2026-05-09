@@ -4,8 +4,6 @@
 
 This application convert images of handwritten equations into LaTeX code using OpenAI's GPT-4V API. It also supports a LaTeX renderer for users to edit and check the generated LaTeX code.
 
-Deployed on Vercel [Equation OCR](https://equation-ocr-app.vercel.app/).
-
 ## Features
 
 - **Equation OCR**: Converts images of handwritten equations into LaTeX code using OpenAI's GPT-4V API.
